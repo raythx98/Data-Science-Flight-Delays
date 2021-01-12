@@ -1,14 +1,14 @@
 # Flight-Delays-in-US-Airlines
 
-flights.csv exceeds permitted github size.
-Download: https://www.kaggle.com/usdot/flight-delays/download
-# DSTA-CODE_EXP-2020
+Python script for my Hackwagon DS102 Final Project, graduated with highest distinction. 
 
-Mobile Application developed on Android Studio for Hackathon
+The magic happens in this file: Module Mapping Project.ipynb
+
+A dataset is excluded as it exceeds github file size limit, download the zip file to flights.csv [here](https://www.kaggle.com/usdot/flight-delays/download)
 
 Archived as project is completed and we will not be making further changes.
 
-<img src="https://i.imgur.com/MHgdkiS.jpg" width="600px">
+<img src="https://imgur.com/J2NE4Xc" width="600px">
 <img src="https://i.imgur.com/OWmIJR6.jpg" width="600px">
 <img src="https://i.imgur.com/KzKevYF.jpg" width="600px">
 <img src="https://i.imgur.com/pqSiO8J.jpg" width="600px">
